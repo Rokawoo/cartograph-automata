@@ -46,8 +46,8 @@ The system's ability to decide when to deviate from programmed paths and when to
 <div align="center">
   <img src="/ReadmeImages/ImageSegmentationOutput1.png" alt="D1" width="400px"/>
   <img src="/ReadmeImages/ImageSegmentationOutput2.png" alt="D1" width="400px"/>
-  ![image](https://github.com/user-attachments/assets/a39f5962-de50-45d7-8d55-70562adff09a)
-  ![image](https://github.com/user-attachments/assets/38645b09-d949-456d-95e0-c60a4aafe718)
+  <img src="/ReadmeImages/ImageSegmentationOutput3.png" alt="D1" width="400px"/>
+  <img src="/ReadmeImages/ImageSegmentationOutput4.png" alt="D1" width="400px"/>
 </div>
 
 # **Training Graphs**
