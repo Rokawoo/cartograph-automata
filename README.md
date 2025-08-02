@@ -2,7 +2,7 @@
   <img src="ReadmeImages/S1.png" alt="Demo Image 1" align="center" width="400px"/>
   <img src="ReadmeImages/S2.png" alt="Demo Image 2" align="center" width="400px"/>
   <h1>Cartograph Automata</h1>
-  <p>By Rokawoo, Khoi, Arya, Mehroj</p>
+  <p>By Rokawoo, Arya, Khoi, Mehroj</p>
 </div>
 
 
@@ -20,7 +20,7 @@ The system's ability to decide when to deviate from programmed paths and when to
 
 ## Demo
 
-[Demo Video](#)
+[Demo Video](https://github.com/user-attachments/assets/760618ae-cbd3-4b13-80f8-f5f23c96e4fc)
 
 ## Project Media
 
